@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<source>
+	<stream bitrate="128">https://s10.citrus3.com8478/stream</stream>
+	<stream bitrate="32">https://s10.citrus3.com8478/stream</stream>
+	<name>Passage Radio UK</name>
+	<tagline>Tune in, chill out</tagline>
+	<description>Passage Radio UK Digital Radio - P.R.U.K has a very simple philosophy - to bring you the very best dance music! that feeds your soull.</description>
+	<genre>Dance</genre>
+	<fanart>passage-radio-fanart.png</fanart>
+	<thumb>passage-radio-thumb.png</thumb>
+	<scraper type="tunein">
+		<url>
+		<delay>20</delay>
+	</scraper>
+</source>
