@@ -2,9 +2,9 @@
 <addon id="repository.bizzle" name="Bizzle repo" version="1.0" provider-name="bizzlebuild">
     <extension point="xbmc.addon.repository" name="Bizzle Repo">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/bizzlebuild/repository.bizzle/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/bizzlebuild/repository.bizzle/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/bizzlebuild/repository.bizzle/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/bizzlebuild/bizzlebuild.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/bizzlebuild/bizzlebuild.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/bizzlebuild/bizzlebuild.github.io/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
